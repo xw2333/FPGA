@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/xiongwei/Desktop/test/sim
+vtb_uart_rx
+Z0 !s110 1489324168
+!i10b 1
+!s100 7lWOgDK[91N[DEEMm4O6N1
+I6UVlV7Z:KmlJ??[T7X>eK3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/xiongwei/Desktop/sdram/6uart/uart_rx/sim
+w1489322062
+8./tb_uart_rx.v
+F./tb_uart_rx.v
+L0 4
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1489324168.694000
+!s107 ./tb_uart_rx.v|
+!s90 -reportprogress|300|./tb_uart_rx.v|
+!i113 1
+Z4 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vuart_rx
+R0
+!i10b 1
+!s100 ^KLXYDomKF[6[d>4zGMlX3
+IFoL[fZ[]d?CTeJE08HP>:3
+R1
+R2
+w1489324156
+8./../design/uart_rx.v
+F./../design/uart_rx.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1489324168.834000
+!s107 ./../design/uart_rx.v|
+!s90 -reportprogress|300|./../design/uart_rx.v|
+!i113 1
+R4

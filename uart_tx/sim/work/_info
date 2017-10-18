@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/xiongwei/Desktop/test/sim
+vtb_uart_rx
+Z0 !s110 1488848308
+!i10b 1
+!s100 a;:1I;3XJ`DRLoljj91Em3
+Ik<bi9>`6=gJQdga69XNQz1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/xiongwei/Desktop/sdram/uart/sim
+w1488848148
+8./tb_uart_rx.v
+F./tb_uart_rx.v
+L0 4
+Z3 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1488848308.124000
+!s107 ./tb_uart_rx.v|
+!s90 -reportprogress|300|./tb_uart_rx.v|
+!i113 1
+Z4 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vtb_uart_tx
+Z5 !s110 1488940848
+!i10b 1
+!s100 6dB2fj7UJecmGbA<:G9h=2
+IINo;[mNNaA@1kY:DJ07B]1
+R1
+Z6 dC:/Users/xiongwei/Desktop/sdram/uart_tx/sim
+w1488940536
+8./tb_uart_tx.v
+F./tb_uart_tx.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1488940848.776000
+!s107 ./tb_uart_tx.v|
+!s90 -reportprogress|300|./tb_uart_tx.v|
+!i113 1
+R4
+vuart_rx
+R0
+!i10b 1
+!s100 ^KLXYDomKF[6[d>4zGMlX3
+IFoL[fZ[]d?CTeJE08HP>:3
+R1
+R2
+w1488848112
+8./../design/uart_rx.v
+F./../design/uart_rx.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1488848308.269000
+!s107 ./../design/uart_rx.v|
+!s90 -reportprogress|300|./../design/uart_rx.v|
+!i113 1
+R4
+vuart_tx
+R5
+!i10b 1
+!s100 PJ?jadZCmf?:PI?8`EJb30
+ICb;Q:FF`oIGNZ[Je689Cd3
+R1
+R6
+w1488940827
+8./../design/uart_tx.v
+F./../design/uart_tx.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1488940848.915000
+!s107 ./../design/uart_tx.v|
+!s90 -reportprogress|300|./../design/uart_tx.v|
+!i113 1
+R4
